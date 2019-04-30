@@ -1,0 +1,20 @@
+
+/*
+    just to prevent symphony's default style
+*/
+table input {
+    float: none !important;
+    margin-right: 0 !important;
+}
+
+.btn-copy {
+    background-image: url(_copy.png) !important;
+}
+
+.btn-paste {
+    background-image: url(_paste.png) !important;
+}
+
+.btn-import {
+    background-image: url(_import.png) !important;
+}

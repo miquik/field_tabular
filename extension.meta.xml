@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="field_tabular" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Tabular</name>
+	<description>Editable table field for backend</description>
+	<types>
+		<type>Field Types</type>
+	</types>
+	<authors>
+		<author>
+			<name github="miquik">Michele</name>
+			<website>http://www.rosauto.it</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1.0" date="2019-04-25" min="2.4" max="2.4">
+			- Initial Release
+		</release>
+	</releases>
+</extension>
